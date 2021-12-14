@@ -90,7 +90,7 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 </p>
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hydrayt777/DonLee-Robot-V2-Tg.git/tree/Without-CMD)
+
 
 ----
 
